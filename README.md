@@ -3,7 +3,7 @@
 
 - :seedling: I’m currently learning **Everything**, mainly PHP/Laravel, WebDev related
 
-- :computer: Currently working at Sopchy, Poland
+- :computer: Currently freelancing at <a href="https://www.fiverr.com/brzorza" target="_blank">Fiverr</a>, based in Poland
 
 - :email: How to reach me **wiktorbrzoza13@gmail.com**
 
